@@ -72,6 +72,7 @@ section#main-section {  /*contêiner para o formulário*/
 li.main-li {  /*itens da lista do formulário*/
     align-items: flex-start;
     justify-content: flex-start;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 input.main-input {  /*campos de entrada de dados*/
